@@ -1,1 +1,1 @@
-[![bayazidsustami](https://circleci.com/gh/bayazidsustami/MySimpleCleanArch.svg?style=shield&circle-token=MySimpleCleanArch)](https://circleci.com/gh/bayazidsustami/MySimpleCleanArch)
+[![bayazidsustami](https://circleci.com/gh/bayazidsustami/MySimpleCleanArch.svg?style=shield&circle-token=aa1a18275857b21a61f9f06c00a73cfb539b875d)](https://circleci.com/gh/bayazidsustami/MySimpleCleanArch)
